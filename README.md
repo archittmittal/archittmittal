@@ -67,14 +67,16 @@
 
 
 
-### 📌 Project Title – 3  
-**Domain / Type:** Machine Learning / Data Analysis  
+### 🛒 Supermarket Billing System  
+**Domain:** Retail Systems | Billing Automation | Inventory Management  
 
-- Type of model or approach used  
-- Dataset and evaluation method  
-- Outcome or insights achieved  
+- Developed a console-based billing system to generate **accurate and error-free customer bills**  
+- Implements automated calculations to eliminate manual billing mistakes  
+- Provides a **real-time stock view**, enabling efficient inventory monitoring and control  
+- Supports product-wise billing with quantity-based price computation  
+- Designed to improve **operational efficiency**, reliability, and transparency in retail transactions  
 
----
+
 
 ## 📊 GitHub Stats
 
