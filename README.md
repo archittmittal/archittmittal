@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Archit Mittal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=900&color=4C6EF5&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;ML+%26+Cloud+Enthusiast;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=900&color=4C6EF5&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact" />
 </p>
 
 <p align="center">
