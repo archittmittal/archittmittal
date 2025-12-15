@@ -81,7 +81,6 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architmittal&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architmittal&layout=compact&theme=dark)
 
 ## 📊 Languages Used
 
