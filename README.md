@@ -101,8 +101,20 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/archit-mittal-010638305/
-- 📧 Email: work.architmittal@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/archit-mittal-010638305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Archit%20Mittal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@architmittal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:work.architmittal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-work.architmittal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
