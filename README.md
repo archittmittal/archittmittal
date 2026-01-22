@@ -16,9 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=archittmittal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archittmittal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 ## 🚀 About Me
 - 🎓 Computer Science Engineering student with a strong foundation in **Data Structures & Algorithms**
