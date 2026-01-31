@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Archit Mittal 👋</h1>
+<h1 align="center">Hi, I'm Archit Mittal. 👋</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=4C6EF5&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact"
