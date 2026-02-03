@@ -143,4 +143,4 @@ Here are some of the certifications I've earned :
 </p>
 
 ---
-⭐ *“Consistent learning and building is the real competitive advantage.”*
+⭐ *“Consistent learning and building is the real competitive advantage and this is all we need.”*
