@@ -1,13 +1,21 @@
-<h1 align="center">Hello, I'm Archit Mittal👋</h1>
+<h1 align="center">Hello, I'm Archit Mittal 👋</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=4C6EF5&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact"
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=4C6EF5&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact"
     alt="Typing SVG"
   />
 </p>
+
 <p align="center">
   <em>Blending software engineering, cloud, and social impact to build meaningful solutions.</em>
 </p>
+
+<p align="center">
+  <strong>Turning curiosity into code, and code into impact.</strong><br/>
+  I don’t just build projects — I build <em>systems that solve real-world problems</em>.
+</p>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=archittmittal&label=Profile%20Views&color=4C6EF5&style=flat"
@@ -16,22 +24,46 @@
 </p>
 
 ---
+
 ## 🚀 About Me
-- 🎓 Computer Science Engineering student with a strong foundation in **Data Structures & Algorithms**
+
+- 🎓 **Computer Science Engineering student** with a strong foundation in **Data Structures & Algorithms**
 - 💻 **Full-Stack Web Developer** passionate about building scalable, user-centric applications
-- 🌍 **Open Source Contributor** — actively contributing to 5–10 diverse projects simultaneously (web apps, ML tools, DevOps utilities, sustainability platforms, and more)
-- 🤝 **Senior Manager – Incoming Social Sector**, AIESEC in Dehradun
-  - Led stakeholder coordination for social impact initiatives
-  - Managed cross-functional teams and project execution
-- 🎤 **IEEE Student Member** – Spokesperson & Event Organizer
-  - Represented the student branch in professional and technical events
-  - Organized workshops, seminars, and academic activities
-- ☁️ Exploring **Cloud Computing** and scalable system design
+- 🌍 **Open Source Contributor** — actively contributing to **5–10 projects** across web, ML, DevOps, and sustainability domains
+- 🤝 **Senior Manager – Incoming Social Sector**, AIESEC in Dehradun  
+  - Led stakeholder coordination for social-impact initiatives  
+  - Managed cross-functional teams and end-to-end project execution
+- 🎤 **IEEE Student Member** – Spokesperson & Event Organizer  
+  - Represented the student branch at professional and technical forums  
+  - Organized workshops, seminars, and academic events
+- ☁️ Exploring **Cloud Computing** and **scalable system design**
 - 🧠 Learning **Machine Learning fundamentals** through hands-on projects
-- 🌱 Passionate about leadership, problem-solving, continuous learning, and open-source collaboration
+- 🌱 Driven by leadership, problem-solving, continuous learning, and open collaboration
 
 ---
+
+## 🧭 Current Focus
+
+- 📌 Strengthening **DSA & problem-solving** for high-impact software roles  
+- 📌 Building **production-ready MERN applications** with clean architecture  
+- 📌 Exploring **cloud-native systems** using AWS & Docker  
+- 📌 Applying technology to **social impact & sustainability use-cases**  
+- 📌 Learning through **open-source code reviews and real-world collaboration**
+
+---
+
+## 🧠 How I Think as an Engineer
+
+- I value **clarity over cleverness**
+- I design systems with **scalability and maintainability** in mind
+- I believe **documentation is as important as code**
+- I learn best by **building, breaking, and improving**
+- I prefer **impact-driven projects** over toy applications
+
+---
+
 ## 🛠 Tech Stack
+
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -57,70 +89,92 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
+
 ## 🔥 Featured Projects
-### 🌱 Eco Vyapaar
+
+### 🌱 Eco Vyapaar  
 **Social Impact | Sustainable E-Commerce | Economic Development**
-- Digital platform enabling **local and small-scale vendors** to sell online
-- Focus on **economic empowerment** and **sustainable business practices**
-- Centralized storefront for broader market access
-- Promotes ethical commerce and community-driven growth
 
-### 🍽️ Food Waste Management System
+- Digital platform enabling **local & small-scale vendors** to sell online  
+- Focused on **economic empowerment** and **ethical commerce**  
+- Centralized storefront for wider market access  
+- **Learned:** user-centric design, backend optimization, system scalability
+
+---
+
+### 🍽️ Food Waste Management System  
 **Sustainability | Community Welfare | Resource Optimization**
-- System to redistribute **surplus food** to **NGOs and Gaushalas**
-- Supports **expiry-date validation** for food safety
-- Location-based matching for timely pickup
-- Reduces food wastage while supporting social welfare
 
-### 🛒 Supermarket Billing System
+- Redistributes **surplus food** to **NGOs and Gaushalas**
+- Implements **expiry-date validation** for food safety
+- Location-based matching for efficient pickups
+- **Learned:** real-world constraints, data validation, impact-oriented design
+
+---
+
+### 🛒 Supermarket Billing System  
 **Billing Automation | Inventory Management**
-- Console-based automated billing system
+
+- Console-based automated billing solution
 - Eliminates manual calculation errors
 - Real-time inventory tracking
-- Improves retail operational efficiency
+- **Learned:** structured programming, file handling, system reliability
 
 ---
+
 ## 🌐 Open Source
-Actively contributing to **5–10 open-source projects** across various domains:
+
+Actively contributing to **5–10 open-source projects** across:
+
 - Full-stack web applications (MERN + Firebase)
 - Machine Learning & Data Science tools
-- Cloud & DevOps utilities (AWS/GCP/Docker)
-- Sustainability & social impact platforms
-- Developer tooling and libraries
+- Cloud & DevOps utilities (AWS, GCP, Docker)
+- Sustainability & social-impact platforms
+- Developer tooling & libraries
 
-Regular contributions include:
-- Bug fixes & feature implementations
-- Documentation improvements
-- Code reviews & pull request collaborations
-- Adding tests & CI/CD enhancements
-
-Check out my GitHub profile for live contributions and repositories I'm involved in!
+**Contributions include:**
+- Bug fixes & feature development  
+- Documentation improvements  
+- Code reviews & PR collaboration  
+- Test coverage & CI/CD enhancements  
 
 ---
+
+## 🏆 Highlights
+
+- 🚀 Consistent open-source contributor across multiple domains
+- 👥 Led cross-functional teams for social-impact initiatives
+- 🎤 Represented IEEE student community at professional forums
+- 🛠 Built end-to-end systems from idea → implementation → deployment
+
+---
+
 ## 📜 Certifications
-Here are some of the certifications I've earned :
 
 - **Google Data Analytics Professional Certificate** – Coursera  
 - **AWS Certified Cloud Practitioner** – Amazon Web Services  
 - **The Web Developer Bootcamp** – Udemy (Colt Steele)  
-- **Python for Data Science and Machine Learning** – Coursera/IBM  
-- **Java Programming and Software Engineering Fundamentals** – Duke University (Coursera)  
+- **Python for Data Science and Machine Learning** – Coursera / IBM  
+- **Java Programming and Software Engineering Fundamentals** – Duke University  
 - **Problem Solving (Basic & Intermediate)** – HackerRank  
 
 ---
+
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=archittmittal&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=archittmittal&layout=compact&theme=tokyonight&hide_border=true"
@@ -129,7 +183,18 @@ Here are some of the certifications I've earned :
 </p>
 
 ---
+
+## 🌟 Beyond Code
+
+- 📚 Avid reader — enjoys novels and thought-provoking non-fiction
+- 🎯 Interested in economics, markets, and public systems
+- 🧠 Curious about how **technology intersects with society & policy**
+- 🤝 Enjoys collaborating with people from diverse backgrounds
+
+---
+
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/archit-mittal-010638305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Archit%20Mittal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -143,4 +208,11 @@ Here are some of the certifications I've earned :
 </p>
 
 ---
-⭐ *“Consistent learning and building is the real competitive advantage and this is all we need.”*
+
+💬 **Open to**:
+- Open-source collaborations  
+- Research-oriented projects  
+- Scalable web & cloud systems  
+- Social-impact driven technology  
+
+⭐ *Consistent learning and building is the real competitive advantage.*
