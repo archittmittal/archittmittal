@@ -38,93 +38,66 @@
 
 ---
 
-## 🧭 Current Focus
-
-- Strengthening DSA & problem-solving  
-- Building production-ready MERN applications  
-- Exploring AWS & Docker  
-- Applying tech to social impact  
-- Learning through open-source collaboration  
-
----
-
 ## 🛠 Tech Stack
 
-### 💻 Programming
-C • C++ • Java • Python • JavaScript • HTML/CSS  
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-### 🌐 Web (MERN)
-React • Node.js • Express • MongoDB • Firebase  
+### 🌐 Web Development (MERN)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-### 📊 ML & Data
-NumPy • Pandas • Scikit-Learn  
+### 📊 Machine Learning & Data
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-AWS • Google Cloud • Docker  
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
 
-### 🧰 Tools
-Git • VS Code • Linux  
+### 🧰 Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🌱 Eco Vyapaar  
-Social Impact E-Commerce Platform  
 - Enables local vendors to sell online  
-- Focused on ethical commerce  
-- Backend optimization & scalable design  
+- Focus on ethical commerce  
+- Backend optimization & scalability  
 
 ### 🍽️ Food Waste Management System  
-Sustainability Platform  
 - Redistributes surplus food to NGOs & Gaushalas  
 - Expiry validation system  
 - Location-based pickup matching  
 
 ### 🛒 Supermarket Billing System  
-Billing & Inventory Automation  
 - Console-based billing  
-- Real-time stock tracking  
-- File handling & transaction logging  
-
----
-
-## 🌐 Open Source
-
-Contributing across:
-
-- Full-stack applications  
-- ML tools  
-- Cloud & DevOps utilities  
-- Sustainability platforms  
-- Developer tooling  
-
-Work includes:
-- Feature development  
-- Bug fixes  
-- Documentation  
-- Test coverage  
-- PR collaboration  
-
----
-
-## 🏆 Highlights
-
-- Consistent multi-domain open-source contributor  
-- Led cross-functional social impact teams  
-- Represented IEEE student branch  
-- Built systems end-to-end  
-
----
-
-## 📜 Certifications
-
-- Google Data Analytics Professional Certificate  
-- AWS Certified Cloud Practitioner  
-- The Web Developer Bootcamp  
-- Python for Data Science & ML  
-- Java Programming & Software Engineering  
-- HackerRank Problem Solving  
+- Real-time inventory tracking  
+- Transaction logging  
 
 ---
 
@@ -177,7 +150,3 @@ Work includes:
     <img src="https://img.shields.io/badge/Email-work.architmittal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-⭐ Consistent learning and building is the real competitive advantage.
