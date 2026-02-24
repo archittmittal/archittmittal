@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Archit Mittal 👋</h1>
+<h1 align="center">Namaste, I'm Archit Mittal 👋</h1>
 
 <p align="center">
   <img
@@ -84,13 +84,22 @@
 
 ## 🔥 Featured Projects
 
+### 🩺 Clinical Risk Predictor  
+- Machine Learning model trained on clinical data of Type 2 Diabetes patients  
+- Predicts patient risk using glucose, BMI, age, insulin, and blood pressure  
+- Built using Python, Pandas, NumPy, Scikit-Learn  
+- Data preprocessing, feature scaling, and model evaluation implemented  
+- Generates structured risk assessment reports  
+- Evaluated using accuracy, precision, recall, and confusion matrix  
+- Designed to support early intervention in healthcare systems  
+
 ### 🌱 Eco Vyapaar  
 - Enables local vendors to sell online  
 - Focus on ethical commerce  
-- Backend optimization & scalability  
+- Backend optimization and scalability  
 
 ### 🍽️ Food Waste Management System  
-- Redistributes surplus food to NGOs & Gaushalas  
+- Redistributes surplus food to NGOs and Gaushalas  
 - Expiry validation system  
 - Location-based pickup matching  
 
