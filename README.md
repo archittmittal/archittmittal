@@ -30,34 +30,48 @@ Turning curiosity into code and code into impact.
 ## Tech Stack
 
 ### Programming
+<p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+</p>
+
 
 ### Web Development
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+</p>
+
 
 ### Machine Learning
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
 
 ### Cloud and DevOps
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
+
 
 ### Tools
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
+
 
 ---
 
