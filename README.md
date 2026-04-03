@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Archit
 
 - 🎓 Computer Science Engineering student  
 - 💻 Strong foundation in Data Structures, Algorithms, and System Design  
