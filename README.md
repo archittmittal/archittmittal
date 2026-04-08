@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<i>Turning curiosities into code and code into impact!!</i>
+<i>Turning curiosity into code and code into impact!!</i>
 </p>
 
 <p align="center">
