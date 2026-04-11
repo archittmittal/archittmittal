@@ -20,7 +20,7 @@
 - 🎓 Computer Science Engineering student  
 - 💻 Strong foundation in Data Structures, Algorithms, and System Design  
 - 🌐 Full Stack Web & Application Developer  
-- 👔 Senior Manager, Incoming Social Sector at **AIESEC Dehradun**  
+- 👔 Ex-AIESECer ft**AIESEC Dehradun**  
 - 🎤 **IEEE** Student Member and Spokesperson  
 - ☁️ Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
 - 🤝 Highly interested in building intuitive technology that drives real social impact  
