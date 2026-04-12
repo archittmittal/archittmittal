@@ -13,6 +13,12 @@
 <img src="https://komarev.com/ghpvc/?username=archittmittal&label=Profile%20Views&color=4C6EF5&style=flat-square"/>
 </p>
 
+<p align="center">
+<a href="https://3d-portfolio-five-rosy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4C6EF5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Archit
