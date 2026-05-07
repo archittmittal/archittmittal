@@ -27,7 +27,7 @@
 - 💻 Strong foundation in Data Structures, Algorithms, and System Design  
 - 🌐 Full Stack Web & Application Developer  
 - 👔 Ex-AIESECer ft **AIESEC Dehradun**
-- 7x Hackathon Finalist
+- 8x Hackathon Finalist
 - 🎤 **IEEE** Student Member and Spokesperson  
 - ☁️ Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
 - 🤝 Highly interested in building intuitive technology that drives real social impact  
