@@ -28,7 +28,7 @@
 - 🌐 Full Stack Web & Application Developer  
 - 👔 Ex-AIESECer ft **AIESEC Dehradun**
 - 8x Hackathon Finalist
-- 🎤 **IEEE** Student Member and Spokesperson  
+- 🎤 **IEEE** Student Member, Spokesperson, and Technical Lead
 - ☁️ Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
 - 🤝 Highly interested in building intuitive technology that drives real social impact  
 
