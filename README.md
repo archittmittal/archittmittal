@@ -103,7 +103,7 @@ A predictive machine learning model trained on clinical data of Type 2 Diabetes 
 
 ### ♻️ Eco Vyapaar
 A structured digital platform designed to empower local vendors to transition online.  
-- Focused heavily on driving ethical commerce and ensuring technical accessibility for under-represented vendors.  
+- Focused heavily on driving ethical commerce and ensuring technical accessibility for underrepresented vendors.  
 - Built as a **Full-Stack Web Application**.
 
 ### 🍲 Food Waste Management System
