@@ -21,20 +21,20 @@
 
 ---
 
-## 👨‍💻 About Archit
+##  About Archit
 
-- 🎓 Computer Science Engineering student  
-- 💻 Strong foundation in Data Structures, Algorithms, and System Design  
-- 🌐 Full Stack Web & Application Developer  
-- 👔 Ex-AIESECer ft **AIESEC Dehradun**
+-  Computer Science Engineering student  
+- Strong foundation in Data Structures, Algorithms, and System Design  
+- Full Stack Web & Application Developer  
+- Ex-AIESECer ft **AIESEC Dehradun**
 - 8x Hackathon Finalist
-- 🎤 **IEEE** Student Member, Spokesperson, and Technical Lead
-- ☁️ Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
-- 🤝 Highly interested in building intuitive technology that drives real social impact  
+- **IEEE** Student Member, Spokesperson, and Technical Lead
+- Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
+- Highly interested in building intuitive technology that drives real social impact  
 
 ---
 
-## 🧰 Arsenal
+## Arsenal
 
 <table>
 <tr>
@@ -84,35 +84,35 @@
 </tr>
 </table>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎓 Attendance & Eligibility Management System
+###  Attendance & Eligibility Management System
 A comprehensive Java desktop application with a premium UI designed to automate university attendance tracking.  
 - Features an intelligent 75% eligibility prediction engine, holiday constraints, and formal academic PDF/HTML reporting with embedded graphics.  
 - Built with **Java (Swing/AWT), JDBC, and MySQL**.
 
-### 🩺 Smart Patient Appointment System
+###  Smart Patient Appointment System
 A robust healthcare application streamlining doctor-patient scheduling and medical record management.  
 - Features real-time availability tracking, secure patient workflows, and intuitive booking mechanisms to reduce administrative overhead in clinics.
 - Built as a **Full-Stack Web Application**.
 
-### 🏥 Clinical Risk Predictor
+###  Clinical Risk Predictor
 A predictive machine learning model trained on clinical data of Type 2 Diabetes patients.  
 - Accurately predicts clinical risks utilizing physiological inputs like glucose levels, BMI, age, and blood pressure.  
 - Built with **Python, Pandas, NumPy, and Scikit-Learn**.
 
-### ♻️ Eco Vyapaar
+###  Eco Vyapaar
 A structured digital platform designed to empower local vendors to transition online.  
 - Focused heavily on driving ethical commerce and ensuring technical accessibility for underrepresented vendors.  
 - Built as a **Full-Stack Web Application**.
 
-### 🍲 Food Waste Management System
+### Food Waste Management System
 A transformative platform bridging the gap between food donors, local NGOs, and gaushalas.  
 - Features intelligent location matching and automated expiry validation logic before food hand-offs.
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=archittmittal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Archit's GitHub Stats"/>
@@ -132,7 +132,7 @@ A transformative platform bridging the gap between food donors, local NGOs, and 
 
 ---
 
-## 📫 Let's Connect!
+##Let's Connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/archit-mittal-010638305/">
