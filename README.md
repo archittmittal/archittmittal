@@ -26,7 +26,7 @@
 -  Computer Science Engineering student  
 - Strong foundation in Data Structures, Algorithms, and System Design  
 - Full Stack Web & Application Developer  
-- Ex-AIESECer ft **AIESEC Dehradun**
+- AIESEC Alumnus ft **AIESEC Dehradun**
 - 8x Hackathon Finalist
 - **IEEE** Student Member, Spokesperson, and Technical Lead
 - Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
