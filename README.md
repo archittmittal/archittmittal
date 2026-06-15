@@ -28,7 +28,7 @@
 - Full Stack Web & Application Developer  
 - AIESEC Alumnus ft **AIESEC Dehradun**
 - 8x Hackathon Finalist
-- **IEEE** Student Member, Spokesperson, Technical Lead and Research Scholar
+- **IEEE** Student Member, Spokesperson, Technical Lead, and Research Scholar
 - Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
 - Highly interested in building intuitive technology that drives real social impact  
 
