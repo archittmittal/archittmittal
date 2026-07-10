@@ -332,7 +332,7 @@ Autonomous infrastructure management using intelligent monitoring and cloud-nati
 # GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=archittmittal&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=archittmittal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </p>
 
 ---
