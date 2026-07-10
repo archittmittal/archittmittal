@@ -1,148 +1,620 @@
+<div align="center">
 
-<h1 align="center">Namaste Ji, I'm Archit Mittal</h1>
+# 👨‍🚀 Archit Mittal
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=4C6EF5&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Senior+Manager+%7C+AIESEC+Dehradun;IEEE+Student+Member+%26+Spokesperson;Building+Technology+with+Social+Impact"/>
-</p>
+### Building Reliable Software, Intelligent Systems, and Human-Centered Technology
 
-<p align="center">
-<i>Turning curiosity into code and code into impact!!</i>
-</p>
+> Engineering dependable software that transforms ambitious ideas into intelligent systems.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=archittmittal&label=Profile%20Views&color=4C6EF5&style=flat-square"/>
-</p>
+> *Software Engineer exploring the intersection of intelligent systems, scalable software, and scientific innovation.*
 
-<p align="center">
-<a href="https://www.architmittal.me/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4C6EF5?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=3500&pause=1200&color=4C6EF5&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%7C+ML+%7C+RAG+Research;System+Design+Enthusiast;Web+Developer+%40+InnspireMedia;Open+Source+Contributor;Research+Collaborations+Welcome" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=archittmittal&style=for-the-badge&color=4C6EF5"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Research-Collaborations-blueviolet?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://www.architmittal.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-4C6EF5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/archit-mittal-010638305/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:work.architmittal@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-##  About Archit
+# 🚀 MISSION BRIEF
 
--  Computer Science Engineering student  
-- Strong foundation in Data Structures, Algorithms, and System Design  
-- Full Stack Web & Application Developer  
-- AIESEC Alumnus ft **AIESEC Dehradun**
-- 8x Hackathon Finalist
-- **IEEE** Student Member, Spokesperson, Technical Lead, and Research Scholar
-- Exploring Cloud Computing, Machine Learning fundamentals, and scalable architectures
-- Highly interested in building intuitive technology that drives real social impact  
+```text
+MISSION
+────────────────────────────────────────────
+
+Engineer dependable software that advances
+intelligent systems through rigorous engineering,
+research, and scalable architectures.
+
+PRIMARY OBJECTIVES
+
+◉ Build intelligent software products
+
+◉ Research AI, ML & Reinforcement Learning
+
+◉ Explore Retrieval-Augmented Generation
+
+◉ Engineer scalable distributed systems
+
+◉ Contribute to Open Source
+
+◉ Contribute to scientific and engineering breakthroughs
+
+STATUS
+
+🟢 Mission Active
+
+Research Collaborations: OPEN
+
+Software Engineering Opportunities: OPEN
+```
 
 ---
 
-## Arsenal
+# 💻 ENGINEERING TERMINAL
+
+```bash
+archit@mission-control:~$ whoami
+
+Archit Mittal
+
+archit@mission-control:~$ designation
+
+Software Engineer
+
+archit@mission-control:~$ current_role
+
+Web Developer @ InnspireMedia
+
+archit@mission-control:~$ expertise
+
+Full Stack Engineering
+System Design
+Artificial Intelligence
+Software Architecture
+
+archit@mission-control:~$ research
+
+Machine Learning
+Reinforcement Learning
+Retrieval-Augmented Generation
+Intelligent Systems
+
+archit@mission-control:~$ engineering_traits
+
+• Curious Learner
+• Research-Oriented
+• Systems Thinker
+
+archit@mission-control:~$ mission
+
+Engineering dependable software that
+transforms ambitious ideas into
+intelligent systems.
+
+archit@mission-control:~$ destination
+
+Contribute to scientific and
+engineering breakthroughs.
+
+archit@mission-control:~$
+```
+
+---
+
+# 👨‍💻 ENGINEERING PROFILE
 
 <table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
-</td>
-</tr>
 
 <tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,vite" />
+
+<td width="50%">
+
+### 🎯 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Reinforcement Learning
+- Retrieval-Augmented Generation
+- System Design
+- Scalable Architectures
+- Intelligent Systems
+
 </td>
+
+<td width="50%">
+
+### ⚡ Core Identity
+
+- Research-Oriented Engineer
+- Product Builder
+- Curious Learner
+- Systems Thinker
+- Open Source Contributor
+- Human-Centered Engineering
+
+</td>
+
 </tr>
 
-<tr>
-<td><b>Backend & APIs</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase" />
-</td>
-</tr>
-
-<tr>
-<td><b>DevOps & Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu" />
-</td>
-</tr>
-
-<tr>
-<td><b>AI & ML</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</td>
-</tr>
 </table>
 
-##  Featured Projects
+---
 
-###  Attendance & Eligibility Management System
-A comprehensive Java desktop application with a premium UI designed to automate university attendance tracking.  
-- Features an intelligent 75% eligibility prediction engine, holiday constraints, and formal academic PDF/HTML reporting with embedded graphics.  
-- Built with **Java (Swing/AWT), JDBC, and MySQL**.
+# 💼 EXPERIENCE
 
-###  Smart Patient Appointment System
-A robust healthcare application streamlining doctor-patient scheduling and medical record management.  
-- Features real-time availability tracking, secure patient workflows, and intuitive booking mechanisms to reduce administrative overhead in clinics.
-- Built as a **Full-Stack Web Application**.
-
-###  Clinical Risk Predictor
-A predictive machine learning model trained on clinical data of Type 2 Diabetes patients.  
-- Accurately predicts clinical risks utilizing physiological inputs like glucose levels, BMI, age, and blood pressure.  
-- Built with **Python, Pandas, NumPy, and Scikit-Learn**.
-
-###  Eco Vyapaar
-A structured digital platform designed to empower local vendors to transition online.  
-- Focused heavily on driving ethical commerce and ensuring technical accessibility for underrepresented vendors.  
-- Built as a **Full-Stack Web Application**.
-
-### Food Waste Management System
-A transformative platform bridging the gap between food donors, local NGOs, and gaushalas.  
-- Features intelligent location matching and automated expiry validation logic before food hand-offs.
+| Role | Organization | Highlights |
+|------|-------------|------------|
+| 💼 Web Developer | **InnspireMedia** | Building scalable web applications and production-ready software |
+| 🌍 Senior Manager, Incoming Social Sector | **AIESEC in India** | Led international collaborations and social impact initiatives |
+| 🔬 Student Member • Technical Lead • Spokesperson | **IEEE** | Research, technical leadership and engineering events |
 
 ---
 
-## GitHub Analytics
+# 🛰 RESEARCH DOMAINS
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=archittmittal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Archit's GitHub Stats"/>
-</p>
+```text
+Artificial Intelligence
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archittmittal&layout=compact&theme=tokyonight&hide_border=true" alt="Archit's Top Languages"/>
-</p>
+Machine Learning
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archittmittal&theme=tokyonight&hide_border=true" alt="Archit's GitHub Streak"/>
-</p>
+Reinforcement Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=archittmittal&theme=tokyo-night" alt="Archit's Activity Graph"/>
-</p>
+Retrieval-Augmented Generation
 
----
+Large Language Models
 
-##Let's Connect!
+Software Architecture
 
-<p align="left">
-<a href="https://www.linkedin.com/in/archit-mittal-010638305/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/architmittal">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:work.architmittal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+Distributed Systems
+
+Cloud Computing
+
+Human-Centered Computing
+
+Open Source Engineering
 ```
+
+---
+
+# ⚙ ENGINEERING ARSENAL
+
+<table>
+
+<tr>
+
+<td><b>Languages</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Frontend</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Backend</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Database</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Cloud & DevOps</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,ubuntu,postman,vscode"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>AI Ecosystem</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 CURRENT OBJECTIVES
+
+- Build production-grade intelligent software.
+- Design scalable software architectures.
+- Advance research in AI, ML and RL.
+- Build Retrieval-Augmented Generation systems.
+- Contribute to impactful Open Source projects.
+- Publish engineering and research work.
+
+---
+
+# 🚀 FEATURED MISSIONS
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛰 Smart Patient Appointment System
+
+**Mission Objective**
+
+Build an intelligent healthcare platform that streamlines appointment scheduling, patient management, and clinical workflows.
+
+**Highlights**
+
+- Smart appointment scheduling
+- Secure patient records
+- Doctor availability management
+- Responsive Full Stack architecture
+
+**Stack**
+
+`React` `Node.js` `MongoDB` `Express`
+
+</td>
+
+<td width="50%">
+
+## ⚙️ AutoMaintainer
+
+**Mission Objective**
+
+Predictive maintenance platform leveraging intelligent analytics to reduce downtime and optimize industrial operations.
+
+**Highlights**
+
+- Predictive analytics
+- Equipment monitoring
+- Maintenance recommendations
+- Interactive dashboards
+
+**Stack**
+
+`Python` `FastAPI` `Machine Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🗣 IndiVoice
+
+**Mission Objective**
+
+Building multilingual voice intelligence to improve accessibility through AI-powered speech technologies.
+
+**Highlights**
+
+- Speech Processing
+- AI Voice Pipeline
+- Language Intelligence
+- Accessibility Focus
+
+**Stack**
+
+`React` `Python` `AI`
+
+</td>
+
+<td width="50%">
+
+## 🧠 Clinical Risk Predictor
+
+**Mission Objective**
+
+Research-driven machine learning platform for early prediction of clinical risks using patient health indicators.
+
+**Highlights**
+
+- Explainable AI
+- Risk Prediction
+- Medical Analytics
+- Research Driven
+
+**Stack**
+
+`Python` `Scikit-Learn` `Pandas`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 HackQuest AI
+
+**Mission Objective**
+
+AI-powered developer platform integrating Retrieval-Augmented Generation for intelligent coding assistance.
+
+**Highlights**
+
+- RAG
+- LangChain
+- Vector Database
+- FastAPI
+
+**Stack**
+
+`React` `FastAPI` `LangChain` `Pinecone`
+
+</td>
+
+<td width="50%">
+
+## ☁ Enterprise AIOps
+
+**Mission Objective**
+
+Enterprise AI Operations platform for intelligent monitoring, automation, and infrastructure management.
+
+**Highlights**
+
+- AI Agents
+- Infrastructure Intelligence
+- Cloud Monitoring
+- Enterprise Automation
+
+**Stack**
+
+`Python` `React` `Cloud`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB INTELLIGENCE DASHBOARD
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=archittmittal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=archittmittal&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archittmittal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archittmittal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 ENGINEERING METRICS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=archittmittal&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archittmittal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+> Configure GitHub Actions later.
+
+<img src="https://raw.githubusercontent.com/archittmittal/archittmittal/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📅 MISSION LOG
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2024 • MISSION INITIALIZED
+
+▸ Began Software Engineering journey
+
+▸ Built strong foundations in Programming
+
+▸ Developed Full Stack Applications
+
+▸ Explored Algorithms & Data Structures
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2025 • ORBIT ACHIEVED
+
+▸ Web Developer @ InnspireMedia
+
+▸ Senior Manager @ AIESEC in India
+
+▸ IEEE Student Member
+
+▸ National Hackathon Finalist
+
+▸ Research-driven AI Projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2026 • DEEP SPACE EXPLORATION
+
+▸ Artificial Intelligence
+
+▸ Machine Learning
+
+▸ Reinforcement Learning
+
+▸ Retrieval-Augmented Generation
+
+▸ Intelligent Systems Engineering
+
+▸ Scalable Software Architecture
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEXT DESTINATION
+
+Contribute to scientific and engineering breakthroughs
+through dependable software and intelligent systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 💻 LIVE ENGINEERING STATUS
+
+```bash
+$ git status
+
+On branch main
+
+Current Mission
+
+✔ Building Intelligent Systems
+
+✔ Exploring AI & ML Research
+
+✔ Designing Scalable Software
+
+✔ Contributing to Open Source
+
+✔ Learning Every Day
+
+No pending commits.
+
+Ready for next mission 🚀
+```
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://www.architmittal.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4C6EF5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/archit-mittal-010638305/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:work.architmittal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/architmittal">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Engineering dependable software that transforms ambitious ideas into intelligent systems.
+
+*"Software Engineer exploring the intersection of intelligent systems, scalable software, and scientific innovation."*
+
+<img src="https://komarev.com/ghpvc/?username=archittmittal&style=flat-square&color=4C6EF5"/>
+
+**Mission Status:** 🟢 ACTIVE
+
+**Current Trajectory**
+
+Software Engineering → Intelligent Systems → Scientific Innovation
+
+</div>
