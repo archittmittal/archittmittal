@@ -387,7 +387,7 @@ Autonomous infrastructure management using intelligent monitoring and cloud-nati
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/architmittal">
+<a href="https://www.instagram.com/archittmittal">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
