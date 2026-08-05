@@ -6,7 +6,7 @@
 
 > Engineering dependable software that transforms ambitious ideas into intelligent systems.
 
-> *Software Engineer exploring the intersection of intelligent system, scalable software, and scientific innovation *
+> *Software Engineer exploring the intersection of intelligent systems, scalable software, and scientific innovation *
 
 <br>
 
