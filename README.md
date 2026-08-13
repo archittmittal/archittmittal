@@ -337,6 +337,16 @@ Autonomous infrastructure management using intelligent monitoring and cloud-nati
 
 ---
 
+## LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/archittmittal/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=archittmittal" />
+  </a>
+</p>
+
+---
+
 # Professional Journey
 
 | Year | Milestone |
