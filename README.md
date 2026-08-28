@@ -4,7 +4,7 @@
 
 ### Building Reliable Software, Intelligent Systems, and Human-Centered Technology
 
-> Engineering dependable software that transforms ambitious ideas into intelligent systems.
+> Engineering dependable software that transforms ambitious ideas into intelligent system.
 
 > *Software Engineer exploring the intersection of intelligent systems, scalable software, and scientific innovation *
 
